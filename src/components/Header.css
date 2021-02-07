@@ -1,0 +1,5 @@
+.input input {
+  border: 3px solid red;
+  width: 100%;
+  outline: none;
+}
